@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T08:39:08.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.6.5" etag="JQ27Rub6RTvYk1w46H51" type="github"><diagram id="f2yOIBYUFpuogZKQ4qZI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-04T08:57:39.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Iit-7yBA1HSK-2c7AOwv" version="16.6.5" type="github">
+  <diagram id="f2yOIBYUFpuogZKQ4qZI" name="Page-1">
+    <mxGraphModel dx="754" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-1" value="数据对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-2" value="知识图谱构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-5" value="命名实体识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-6" value="关系抽取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-7" value="实体对齐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-8" value="机坪信息整合不足" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-9" value="信息孤岛" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-10" value="难以建立信息间深层次关联" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-12" value="机坪场面&lt;br&gt;人机物信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuX1cqlyyez9OaO5Y-E-15" value="准确表示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
